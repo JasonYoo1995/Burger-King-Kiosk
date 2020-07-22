@@ -1,0 +1,56 @@
+﻿  ConsoleView.cpp
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(114,29): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(173,29): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(175,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(182,65): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(192,22): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(228,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(235,55): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(248,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(255,55): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(260,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(267,55): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(314,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(321,55): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(349,6): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(361,23): warning C4805: '!=': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(381,22): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(390,6): warning C4805: '==': 연산에 'boolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(411,31): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(413,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(420,38): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(441,36): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(468,31): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(470,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(477,57): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(478,43): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(500,37): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(577,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(578,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(585,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(795,30): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(807,44): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(830,23): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(928,42): warning C4267: '인수': 'size_t'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(982,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(1030,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Data.cpp
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\ConsoleView.cpp(1031,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\Data.cpp(26,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\Data.cpp(186,17): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\Data.cpp(195,21): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\Data.cpp(214,17): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\Data.cpp(223,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\Data.cpp(172,6): warning C4101: 'totalsecond' :참조되지 않은 지역 변수입니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\Data.cpp(205,7): warning C4101: 'save_from_index' :참조되지 않은 지역 변수입니다.
+  FileManager.cpp
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\Data.cpp(258,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\FileManager.cpp(27,9): warning C4101: 'pos' :참조되지 않은 지역 변수입니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\FileManager.cpp(61,9): warning C4101: 'pos' :참조되지 않은 지역 변수입니다.
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\FileManager.cpp(96,9): warning C4101: 'pos' :참조되지 않은 지역 변수입니다.
+  Main.cpp
+  Material.cpp
+  Product.cpp
+  코드를 생성하고 있습니다...
+C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\FileManager.cpp(147,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  버거킹_코드합병_v1.vcxproj -> C:\Projects\C++ Projects\버거킹 키오스크\C++프로그래밍 기말 프로젝트 5조 버거킹 키오스크\Debug\버거킹_코드합병_v1.exe
